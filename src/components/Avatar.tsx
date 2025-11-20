@@ -1,4 +1,4 @@
-const index = () => {
+const Avatar = () => {
 	return (
 		<>
 			<div className=""></div>
@@ -6,4 +6,4 @@ const index = () => {
 	);
 };
 
-export default index;
+export default Avatar;
